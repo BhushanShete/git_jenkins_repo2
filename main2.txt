@@ -1,2 +1,3 @@
 add secret text
 add data becouse jenkins update automaticly
+add data through local repo
